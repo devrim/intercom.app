@@ -2,7 +2,7 @@
 
 > If you need intercom to exist on your desktop as an app vs a browser tab
 
-# [Intercom Mac App](https://raw.githubusercontent.com/devrim/intercom.app/master/dist/Intercom-darwin-x64.zip)
+# [Download Intercom Mac App](https://raw.githubusercontent.com/devrim/intercom.app/master/dist/Intercom-darwin-x64.zip)
 
 
 ## Dev
